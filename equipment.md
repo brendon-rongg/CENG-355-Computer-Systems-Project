@@ -5,7 +5,7 @@ Michael
 - HC-SR04 Ultrasonic Sensor
 
 Tyler
-- PIR Motion Sensor
+- HC-SR501 Pir Motion IR Sensor
 
 Anthony
 - MLX90614 Non Contact Temperature Sensor
