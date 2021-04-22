@@ -6,7 +6,7 @@ import math
 import os
 
 config = {
-  "apiKey": "AIzaSyD0HLrcSehEt_Kz7xxxy--ih2ewf1yePC0",
+  "apiKey": "",
   "authDomain": "cssproject-9fa41-default-rtdb.firebaseapp.com",
   "databaseURL": "https://cssproject-9fa41-default-rtdb.firebaseio.com/",
   "storageBucket": "cssproject-9fa41-default-rtdb.appspot.com"
