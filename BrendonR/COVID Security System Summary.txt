@@ -4,4 +4,4 @@ Security System” was designed to help take the load off and get businesses bac
 as if nothing has changed. The system utilizes a specific set of hand-picked sensors that work in
 sync with each other and has a mobile app that keeps track of all the employees' temperatures.
 
-Link to video: https://youtu.be/P2kUmEEGyMU 
+Link to video: https://youtu.be/P2kUmEEGyMU    
